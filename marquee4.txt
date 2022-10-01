@@ -1,0 +1,17 @@
+dha
+6
+pakistani cuisine
+thai cuisine
+italian cuisine
+chinese cuisine
+spanish cuisine
+turkish cuisine
+750
+55000
+38000
+900
+1
+4 0
+1
+1 5 20
+punjab
